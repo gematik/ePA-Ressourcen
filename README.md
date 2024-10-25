@@ -19,7 +19,7 @@
 
 This repository offers technical information for the Electronic Personal Health Record Environment (ePA) as part of the Telematic Infrastructure (TI).
 
-This branch relates to a particular release in context of **ePA Version 42.6**
+This branch relates to a particular release in context of **ePA Version 2.6**
 
 The provided content comprises normative and supplementary resources and includes implementation guidelines, apis and schemas, examples and additional information.
 

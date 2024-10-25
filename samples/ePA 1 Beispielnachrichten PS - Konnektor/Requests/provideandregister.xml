@@ -79,7 +79,7 @@
               </rim:Name>
             </rim:ExternalIdentifier>
             <!-- SubmissionSet.uniqueId -->
-            <rim:ExternalIdentifier id="uniqueId" identificationScheme="urn:uuid:96fdda7c-d067-4183-912e-bf5ee74998a8" objectType="urn:oasis:names:tc:ebxml-regrep:ObjectType:RegistryObject:ExternalIdentifier" registryObject="submissionset" value="1.2.840.113556.1.8000.2554.61059.41626.53716.18425.37624.8313075.3174511">
+            <rim:ExternalIdentifier id="uniqueId" identificationScheme="urn:uuid:96fdda7c-d067-4183-912e-bf5ee74998a8" objectType="urn:oasis:names:tc:ebxml-regrep:ObjectType:RegistryObject:ExternalIdentifier" registryObject="submissionset" value="1.2.840.13556.2554.61059.41626.53716.18425.37624">
               <rim:Name>
                 <rim:LocalizedString value="XDSSubmissionSet.uniqueId"/>
               </rim:Name>
@@ -196,7 +196,7 @@
       <rim:LocalizedString value="XDSDocumentEntry.patientId"/>
     </rim:Name>
   </rim:ExternalIdentifier>
-  <rim:ExternalIdentifier id="uniqueId-0" identificationScheme="urn:uuid:2e82c1f6-a085-4c72-9da3-8640a32e42ab" objectType="urn:oasis:names:tc:ebxml-regrep:ObjectType:RegistryObject:ExternalIdentifier" registryObject="DocumentEntry-0" value="1.2.840.113556.1.8000.2554.17930.51373.54354.20040.33122.16728266.12168687">
+  <rim:ExternalIdentifier id="uniqueId-0" identificationScheme="urn:uuid:2e82c1f6-a085-4c72-9da3-8640a32e42ab" objectType="urn:oasis:names:tc:ebxml-regrep:ObjectType:RegistryObject:ExternalIdentifier" registryObject="DocumentEntry-0" value="1.2.840.113556.2554.17930.51373.54354.20040.33122">
     <rim:Name>
       <rim:LocalizedString value="XDSDocumentEntry.uniqueId"/>
     </rim:Name>

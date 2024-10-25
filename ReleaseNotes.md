@@ -1,6 +1,9 @@
 <img align="right" width="250" height="47" src="images/Gematik_Logo_Flag_With_Background.png"/> <br/>    
 
 # Release Notes api-epa/epa-2.6
+## Release R2.6.0-11
+### changes
+- correction in samples/ePA 1 Beispielnachrichten PS - Konnektor
 ## Release R2.6.0-10
 ### editorial 
 - follow-up link added in branchinformation
